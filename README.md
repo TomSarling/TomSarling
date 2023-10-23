@@ -3,4 +3,4 @@
 - I am interested in stochastic methods and general data handling , I intend to peruse a career related to these. 
 - I’m currently reading physics at the University of Bristol ( 3rd year in the MSci programme) 
 - This page will be uploads of my University course work, where fair use allows, and my own personal projects 
-- Currently making simple tradin bot( for momentum trading ) 
+- Currently making simple trading bot( for momentum trading ) 
